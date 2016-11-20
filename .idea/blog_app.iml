@@ -226,6 +226,34 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="autoprefixer-rails (vbundled(6.3.7), /Users/andrew/projects/udemy/rails_projects/blog_app/vendor/bundle/gems/autoprefixer-rails-6.3.7) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/autoprefixer-rails-6.3.7/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/autoprefixer-rails-6.3.7/vendor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/autoprefixer-rails-6.3.7/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/autoprefixer-rails-6.3.7/vendor" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bootstrap-sass (vbundled(3.3.7), /Users/andrew/projects/udemy/rails_projects/blog_app/vendor/bundle/gems/bootstrap-sass-3.3.7) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/bootstrap-sass-3.3.7/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/bootstrap-sass-3.3.7/tasks" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/bootstrap-sass-3.3.7/assets" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/bootstrap-sass-3.3.7/templates" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/bootstrap-sass-3.3.7/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/bootstrap-sass-3.3.7/tasks" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/bootstrap-sass-3.3.7/assets" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/bootstrap-sass-3.3.7/templates" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="builder (vbundled(3.2.2), /Users/andrew/projects/udemy/rails_projects/blog_app/vendor/bundle/gems/builder-3.2.2) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/gems/builder-3.2.2/lib" />
